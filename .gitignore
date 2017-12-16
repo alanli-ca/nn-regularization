@@ -1,0 +1,6 @@
+.vscode/*
+*.ipynb*
+__pycache__
+models/
+images/
+*.DS_Store
